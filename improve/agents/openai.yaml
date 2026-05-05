@@ -1,0 +1,4 @@
+interface:
+  display_name: "Improve"
+  short_description: "Tighten the latest task template"
+  default_prompt: "Use $improve to turn a concrete improvement request into minimal durable edits to the latest relevant task template."

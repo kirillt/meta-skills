@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rule"
+  short_description: "Codify a new standing repo rule"
+  default_prompt: "Use $rule to turn a freeform standing instruction into a precise operational rule and apply it to the repo control surface."

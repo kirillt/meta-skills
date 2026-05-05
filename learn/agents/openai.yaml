@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn"
+  short_description: "Turn a session into durable improvements"
+  default_prompt: "Use $learn to run an end-of-session learning pass that turns the current work into durable rule, task, and data improvements."

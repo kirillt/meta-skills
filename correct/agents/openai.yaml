@@ -1,0 +1,4 @@
+interface:
+  display_name: "Correct"
+  short_description: "Explain a mistake and propose a durable fix"
+  default_prompt: "Use $correct to analyze a questionable agent action, identify the primary cause, and propose the smallest durable prevention change."
